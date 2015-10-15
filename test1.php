@@ -12,4 +12,5 @@ function abc($b,$a,$c)
 	echo $a+$b+$c;//summing numbers
 }
 
+echo "okok";
 ?>
